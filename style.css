@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(images/bg.jpg) no-repeat;
+    background-size: cover;
+}
+a{
+    text-decoration:none !important;
+}
